@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'atracoes',
     'comentarios',
     'avaliacoes',
+    'enderecos',
 
     'rest_framework',
 ]
